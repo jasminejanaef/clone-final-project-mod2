@@ -23,7 +23,7 @@ This repository, by Jasmine Janae, showcases a landing page created with HTML, C
 
 ## Demo
 
-Explore the live demo of the Final Project Mod 2 landing page [here](https://mod2project.netlify.app).
+Explore the live demo of the Final Project Mod 2 landing page [here](https://mod2-final-project2.netlify.app).
 
 
 
